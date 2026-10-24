@@ -25,5 +25,4 @@ Este repositório reúne atividades práticas desenvolvidas durante meus estudos
 ## 🎯 Objetivo
 
 Meu principal objetivo com este repositório é registrar minha evolução no aprendizado de Python, colocando em prática os conceitos estudados e aprimorando gradualmente minhas habilidades de programação.
-
 O repositório será atualizado conforme novos conteúdos e exercícios forem desenvolvidos.

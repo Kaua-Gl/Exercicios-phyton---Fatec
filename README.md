@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório de exercícios de **Python**!
 
-Este repositório reúne atividades práticas desenvolvidas durante meus estudos de programação, com o objetivo de aprimorar minha lógica, aprender os fundamentos da linguagem Python e desenvolver habilidades na resolução de problemas.
+Este repositório reúne atividades práticas desenvolvidas durante meus estudos de programação do primeiro semestre de DSM (Desenvolvimento de software multiplataforma), com o objetivo de aprimorar minha lógica, aprender os fundamentos da linguagem Python e desenvolver habilidades na resolução de problemas.
 
 ## 📚 Conteúdos estudados
 
